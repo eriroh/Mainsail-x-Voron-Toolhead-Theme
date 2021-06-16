@@ -183,3 +183,8 @@ body {
 .mdi-history:before {
     content: "\F0B56";
 }
+
+/* Printer Dashboard to 3d Printer */
+.mdi-view-dashboard-outline:before {
+    content: "\F042B";
+}
