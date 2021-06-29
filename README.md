@@ -28,7 +28,7 @@ Thanks to **th33xitus**, it's now possible to install this theme using [Kiauh](h
 
 #### Some of the other Voron Toolheads include AB-BN-30, TinyM with Sherpa mini and Sailfin extruders. 
 
-<img src="sidebar_toolheads/sidebar-backgroundAB-BN-30_black.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundAB-BN-30_red.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_sherpa_black.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_sherpa_red.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_Sailfin_red.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_Sailfin_turquoise.png" width=140 height=360>
+<img src="sidebar_toolheads/sidebar-backgroundAB-BN-30_black.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundAB-BN-30_red.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_sherpa_black.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_Sailfin_turquoise.png" width=140 height=360><img src="sidebar_toolheads/sidebar-backgroundTinyM_Sailfin_red.png" width=140 height=360>
 
 The Toolhead sidebar-backgrounds may be used without the custom.css, favicons and side bar-logo which will keep Mainsail in it's beautiful original color scheme.
 
