@@ -159,10 +159,6 @@ body {
     content: "\F0622"
 }
 
-/* Send arrow to telegram arrow */
-.mdi-send:before {
-    content: "\F0501"
-}
 
 /* console to boxed console */
 .mdi-console-line:before {
@@ -187,4 +183,9 @@ body {
 /* Printer Dashboard to 3d Printer */
 .mdi-view-dashboard-outline:before {
     content: "\F042B";
+}
+
+/* Question-mark to Information/About */
+.mdi-help-circle-outline:before {
+    content: "\F02FD";
 }
