@@ -36,11 +36,6 @@ including Voron Toolheads and red and black accent colors
     background-color: black !important;
 }
 
-.v-application .text-body-2, .v-application .text-button {
-    font-size: .875rem!important;
-    font-family: Roboto,sans-serif!important;
-    color: black;
-}
 
 /* Change Color of text */
 .v-btn__content .v-toolbar__title {
