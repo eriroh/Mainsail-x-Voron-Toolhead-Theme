@@ -29,7 +29,7 @@ including Voron Toolheads and red and black accent colors
 
 .v-application .warning {
     background-color: #ff5252 !important;
-    border-color: #ff5252;
+    border-color: #ff5252 !important;
 }
 
 .v-application .primary {
