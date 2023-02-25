@@ -10,13 +10,13 @@ Thanks to **th33xitus**, it's now possible to install this theme using [Kiauh](h
 
 *PLEASE KEEP IN MIND THAT THE VARIOUS TOOLHEAD IMAGES MUST BE RENAMED TO "sidebar-background.png"*
 
-#### Mainsail x Miniafterburner Red
+#### Mainsail x Mini-Stealthburner Red
 
-<img src="Preview/V0.1_preview.png">
+<img src="Preview/V0.2_preview.png">
 
-#### Mainsail x Miniafterburner Black
+#### Mainsail x Mini-Stealthburner Black
 
-<img src="Preview/V0.1_black_preview.png">   
+<img src="Preview/V0.2_black_preview.png">   
 
 #### Mainsail x Afterburner
 
